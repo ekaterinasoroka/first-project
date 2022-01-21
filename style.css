@@ -1,0 +1,13 @@
+/* свойства текста цитат */
+.content__quote {
+    font-family: 'Lora';
+    font-size: 34px;
+    line-height: 42px;
+    padding: 40px;
+    margin-bottom: 60px;
+    border-top: 2px solid #ff6666;
+    border-bottom: 2px solid #ff6666;
+    position: relative;
+    top: 5px;
+    left: 60px;
+  }
